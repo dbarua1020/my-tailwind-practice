@@ -1,4 +1,4 @@
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/3ed902d8-7c86-4f30-a704-5bdd6f5e445e"># my-tailwind-practice
+<h2> My Tailwind Practice </h2>
 This repository serves as a timeline of my journey learning Tailwind CSS. It includes various projects and examples that showcase how my understanding of utility-first CSS has evolved over time. From basic layout experiments to more complex, responsive designs, each commit reflects a new concept or technique I've explored. The goal of this repo is to track my progress, demonstrate practical applications of Tailwind, and provide a reference for future projects as I continue to refine my skills
 <br>
 <br> 
