@@ -4,4 +4,5 @@ This repository serves as a timeline of my journey learning Tailwind CSS. It inc
 <br> 
 Some screenshots of my work include-
 <br> 
+<br> 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/3a3e3e60-9b24-457d-9bbe-ab32313d6c5e">
